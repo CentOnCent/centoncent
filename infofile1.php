@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h1>
 
 This is my test with only my info branch.
@@ -14,3 +15,9 @@ I think by faianjum
 
 
 </h5>
+=======
+<h5> This will be last one 
+
+
+</h5>
+>>>>>>> newcorebranch
